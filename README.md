@@ -7,4 +7,4 @@
 <p> The 4th issue is to add a header.</p>
 <p> The 5th issue is to import 1 image. </p>
 
-![image alt](https://github.com/ray35941/kd.github.io/blob/aa6d3e1083ea15ad9901f484dcd4777da152347b/smiley.jpg)
+![Smell](https://github.com/ray35941/kd.github.io/blob/aa6d3e1083ea15ad9901f484dcd4777da152347b/smiley.jpg)
