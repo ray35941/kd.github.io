@@ -4,9 +4,9 @@
 <p> The 1st issue is to update the readme.md file, such as adding 1 line above.</p>
 <p> The 2nd issue is to add the label documentations. </p>
 <p> The 3rd issue is to customize the home page, I pined my repository.</p>
-<p> The 4th issue is to update the contents for my portfolio page, such including the bold text, emoji:</p>
+<p> The 4th issue is to update the contents for my portfolio page, such including the bold text:</p>
 
-**I have to do my assignments on time.** :grinning:
+**I have to do my assignments on time.**
 
 <p> The 5th issue is to add 1 header. </p>
 <p> The 6th issue is to add a table contains Kai's 2 favorite laptops:</p>
