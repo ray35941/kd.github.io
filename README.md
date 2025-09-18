@@ -1,7 +1,7 @@
 # Kai Ding, the Student who is taking CSCI 713
-<span style ="background-color: #FFF00"> I am a Graduate Student</span>
+********
 <p> This the assignment 1 by Kai Ding. </p>
-<p> The first issue is to update the readme.md file.</p>
+<p> The first issue is to update the readme.md file, such as adding 1 line.</p>
 <p> The 2nd issue is to add the label documentation. </p>
 <p> The 3rd issue is to customize the home page.</p>
 <p> The 4th issue is to add a header.</p>
